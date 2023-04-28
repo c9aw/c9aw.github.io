@@ -21,9 +21,8 @@ const Subscribe = () => {
               Get exclusive offers & news
             </p>
             <p className='text-xl text-center text-white sm:text-sm'>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Obcaecati, natus amet non veniam quae earum sequi eos vero harum
-              asperiores?
+              Want to be updated on the latest drops, sales, events, giveaways and more? 
+              Sign up below with your email and we'll keep you on the latest page!
             </p>
             <div className='flex justify-center items-center gap-4 sm:flex-col'>
               <input
