@@ -36,7 +36,7 @@ const Footer = () => {
             <FaGithub />
           </div>
         </div>
-        <p>Copyright ©️ 2023 Sellution. All Rights Reserved.</p>
+        <p>Copyright © 2023 Sellution. All Rights Reserved.</p>
       </div>
       <img className="sm:hidden" src="logoss1.png" alt="" />
     </div>
