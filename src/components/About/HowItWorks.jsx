@@ -7,7 +7,7 @@ const data = [
   },
   {
     id: 2,
-    image: '/sparkabout.png',
+    image: '/cleanabout.png',
     title:
       'Items arrive to us are either/and cleaned, restored, ironed, washed, and stored in a dust-free and temperature controlled space.',
   },
