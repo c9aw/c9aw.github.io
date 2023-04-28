@@ -1,19 +1,19 @@
 const data = [
   {
     id: 1,
-    image: '/checkabout.png',
+    image: '/checkabout1.png',
     title:
       'Our team hand picks new or lightly used items from high-demand brands. All items pass a verification process to ensure each and every one is legit and authentic.',
   },
   {
     id: 2,
-    image: '/cleanabout.png',
+    image: '/cleanabout1.png',
     title:
       'Items arrive to us are either/and cleaned, restored, ironed, washed, and stored in a dust-free and temperature controlled space.',
   },
   {
     id: 3,
-    image: '/sendabout.png',
+    image: '/sendabout1.png',
     title:
       'We list our products on the eBay platform at the best pricing so you can save even on the most popular brands. We quickly ship our item out to you with sustainable packaging, tracking, and quick shipping.',
   },
