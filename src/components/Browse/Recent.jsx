@@ -47,7 +47,7 @@ const Recent = ({ search }) => {
   return (
     <div className='py-10 mx-10 sm:py-5 sm:mx-5'>
       <div className='py-4 font-bold flex justify-between items-center sm:font-normal'>
-        <p className='text-xl sm:text-sm'>
+        <p className='text-2xl sm:text-sm'>
           Recently <span className='text-[#86c6b7]'>Dropped</span>
         </p>
         <button className='text-[#86c6b7] pr-2 cursor-pointer sm:text-sm'>
