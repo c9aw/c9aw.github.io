@@ -4,7 +4,7 @@ const Hero = () => {
       <div className='min-h-full w-full absolute bg-[url(/banner2.png)] bg-cover bg-no-repeat bg-[#d9d9d9] blur-sm'></div>
       <div className='text-white h-full w-full absolute bg-black opacity-80 flex flex-col items-center justify-center'>
         <img className='w-[700px] sm:w-[300px]' src='sellution.png' alt='' />
-        <p className='w-[600px] sm:w-[300px] text-center sm:text-sm'>
+        <p className='w-[600px] lg:w-[300px] text-center lg:text-lg'>
           #1 place to buy, sell, trade, and save on 
           new and lightly used clothing from your favorite brands.
         </p>
