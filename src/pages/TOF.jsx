@@ -12,31 +12,15 @@ const TOF = () => {
           Welcome to sellution.shop. The sellution.shop website (the "Site") is comprised of various web pages operated by Sellution LLC (" Sellution "). sellution.shop is offered to you conditioned on your acceptance without modification of the terms, conditions, and notices contained herein (the "Terms"). Your use of sellution.shop constitutes your agreement to all such Terms. Please read these terms carefully, and keep a copy of them for your reference.
         </p>
         <p>
-          BY PLAYING, USING OR OTHERWISE ACCESSING THE SERVICE, YOU AGREE TO
-          THESE Terms of Service. IF YOU DO NOT AGREE TO THESE Terms of Service,
-          PLEASE DO NOT PLAY, USE OR OTHERWISE ACCESS THE SERVICE. USE OF THE
-          SERVICE IS VOID WHERE PROHIBITED.
+          sellution shop is an E-Commerce Site. Resale of used and new name-brand clothing for both the buyer to save money and to lower our carbon footprint.
         </p>
+        <p className='text-black text-3xl'>1. Electronic Communications</p>
         <p>
-          Beluga reserves the right, at its discretion, to change, modify, add
-          or remove portions of these Terms of Service, and other relevant
-          Beluga policies at any time by posting the amended terms on the
-          Service. You will be deemed to have accepted such changes by
-          continuing to use the Service. If at any point you do not agree to any
-          portion of the then-current version of our Terms of Service, or any
-          other Beluga policy, rules or codes of conduct relating to your use of
-          the Service, your right to use the Service shall immediately
-          terminate, and you must immediately stop using the Service.
+         Visiting sellution.shop or sending emails to Sellution constitutes electronic communications. You consent to receive electronic communications and you agree that all agreements, notices, disclosures and other communications that we provide to you electronically, via email and on the Site, satisfy any legal requirement that such communications be in writing.
         </p>
-        <p className='text-black text-3xl'>1. Acknowledgment</p>
+        <p className='text-black text-3xl'>1. Your Account</p>
         <p>
-          Subject to your agreement and continuing compliance with these Terms
-          of Service and any other relevant Beluga policies, you have a
-          non-exclusive, non-transferable, non-sublicensable, revocable and
-          limited right to access and use the Service for your own
-          non-commercial entertainment purposes. You agree not to use the
-          Service for any other purpose. The following restrictions apply to the
-          use of the Service:
+          If you use this site, you are responsible for maintaining the confidentiality of your account and password and for restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account or password. You may not assign or otherwise transfer your account to any other person or entity. You acknowledge that Sellution is not responsible for third party access to your account that results from theft or misappropriation of your account. Sellution and its associates reserve the right to refuse or cancel service, terminate accounts, or remove or edit content in our sole discretion.
         </p>
         <ul className='list-disc ml-10'>
           <li>
