@@ -58,48 +58,6 @@ const TOF = () => {
         <p>
           You will not modify, publish, transmit, reverse engineer, participate in the transfer or sale, create derivative works, or in any way exploit any of the content, in whole or in part, found on the Site. Sellution content is not for resale. Your use of the Site does not entitle you to make any unauthorized use of any protected content, and in particular you will not delete or alter any proprietary rights or attribution notices in any content. You will use protected content solely for your personal use, and will make no other use of the content without the express written permission of Sellution and the copyright owner. You agree that you do not acquire any ownership rights in any protected content. We do not grant you any licenses, express or implied, to the intellectual property of Sellution or our licensors except as expressly authorized by these Terms.
         </p>
-        <p>
-          You may be held accountable for damages for misrepresenting that any
-          Content is infringing your copyright.
-        </p>
-        <p className='text-black text-3xl'>3.1.1 Intellectual Property</p>
-        <p>
-          The Service and its original content (excluding Content provided by
-          you or other users), features and functionality are and will remain
-          the exclusive property of Beluga and its licensors. The Service is
-          protected by copyright, trademark, and other laws of both the Country
-          and foreign countries.
-        </p>
-        <p>
-          Our trademarks and trade dress may not be used in connection with any
-          product or service without the prior written consent of Beluga.
-        </p>
-        <p className='text-black text-3xl'>Your Feedback to Us</p>
-        <p>
-          You assign all rights, title and interest in any Feedback you provide
-          Beluga. If for any reason such assignment is ineffective, you agree to
-          grant Beluga a non-exclusive, perpetual, irrevocable, royalty free,
-          worldwide right and license to use, reproduce, disclose, sub-license,
-          distribute, modify and exploit such Feedback without restriction.
-        </p>
-        <p className='text-black text-3xl'>5. Termination</p>
-        <p>
-          We may terminate or suspend your Account immediately, without prior
-          notice or liability, for any reason whatsoever, including without
-          limitation if you breach these Terms and Conditions. Upon termination,
-          your right to use the Service will cease immediately. If you wish to
-          terminate your Account, you may simply discontinue using the Service.
-        </p>
-        <p className='text-black text-3xl'>6. Limitation of Liability</p>
-        <p>
-          We are not responsible for any loss of items, content, boosts, tokens,
-          currency, gamepass, ability loss due to compromise of account,
-          scamming, or unfair trade between another user. In some cases, Beluga
-          will attempt to fix any loss of items for any reason given. However,
-          we are responsible for any loss of items due to data resets, in-game
-          bugs/glitches, or Roblox data errors. Proof must be provided to our
-          support team in order for us to determine how to compensate the user.
-        </p>
       </div>
       <Footer />
     </div>
