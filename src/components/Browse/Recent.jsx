@@ -2,26 +2,26 @@ const data = [
   {
     id: 1,
     image: '/shoe.png',
-    title: 'Product title',
-    price: 'Price in USD $300',
+    title: 'Supreme Air Force 1',
+    price: '11.5 Mens - $155',
   },
   {
     id: 2,
     image: '/shoe.png',
-    title: 'Product title',
-    price: 'Price in USD $300',
+    title: 'Air Jordan 1 Mid Metallic Gold',
+    price: '5 Youth - $58',
   },
   {
     id: 3,
     image: '/shoe.png',
-    title: 'Product title',
-    price: 'Price in USD $300',
+    title: '[NEW] Kyrie 6 Black-White',
+    price: '10 Mens - $105',
   },
   {
     id: 4,
     image: '/shoe.png',
-    title: 'Product title',
-    price: 'Price in USD $300',
+    title: 'Jordan 1 Mid Black Royal Blue',
+    price: '5 Youth - $90',
   },
   {
     id: 5,
@@ -32,14 +32,14 @@ const data = [
   {
     id: 6,
     image: '/shoe.png',
-    title: 'Product title',
-    price: 'Price in USD $300',
+    title: 'Kyrie Flytrao Rage Green',
+    price: '10 Mens - $90',
   },
   {
     id: 7,
     image: '/shoe.png',
-    title: 'Product title',
-    price: 'Price in USD $300',
+    title: 'Jordan True Flight Black Cool Grey',
+    price: '9.5 Mens - $85',
   },
 ]
 
