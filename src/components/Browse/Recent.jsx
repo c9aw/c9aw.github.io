@@ -13,7 +13,7 @@ const data = [
   },
   {
     id: 3,
-    image: '/shoe.png',
+    image: '/whitekyrie.png',
     title: '[NEW] Kyrie 6 Black-White',
     price: '10 Mens - $105',
   },
@@ -25,13 +25,13 @@ const data = [
   },
   {
     id: 5,
-    image: '/shoe.png',
-    title: 'Product title',
+    image: '/bluehat.png',
+    title: 'Supreme Blue Property Label Beanie',
     price: 'Price in USD $300',
   },
   {
     id: 6,
-    image: '/shoe.png',
+    image: '/greenkyrie.png',
     title: 'Kyrie Flytrao Rage Green',
     price: '10 Mens - $90',
   },
