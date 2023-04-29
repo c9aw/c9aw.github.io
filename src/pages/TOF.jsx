@@ -41,91 +41,22 @@ const TOF = () => {
             e-mail or repetitive or misleading messages to anyone.
           </li>
         </ul>
-        <p className='text-black text-3xl'>2. Use Limitations</p>
+        <p className='text-black text-3xl'>2. Users Under Thirteen</p>
         <p>
-          Use Limitations Any use of the Service in violation of these Use
-          Limitations is strictly prohibited, can result in the immediate
-          revocation of your limited right and may subject you to liability for
-          violations of law.
+          Sellution does not knowingly collect, either online or offline, personal information from persons under the age of thirteen. If you are under 18, you may use sellution.shop only with permission of a parent or guardian.
         </p>
-        <p>You agree that you will not, under any circumstances:</p>
-        <ul className='list-disc ml-10'>
-          <li>
-            Participate in any act that Beluga determines to be in violation of
-            the Terms or improper use of Beluga's services.
-          </li>
-          <li>
-            Use or participate in the use of cheats, hacks, exploits, mods, or
-            any unauthorized third-party software used to interfere or modify
-            any Beluga game.
-          </li>
-          <li>
-            The interference of other user's normal experience flow in a
-            negatively-impacting way in one of Beluga's game. This includes
-            intentionally abusing a bug in-game to your advantage or to other's
-            disadvantage, promising players with "deals" you won't complete,
-            harassing users into giving you something.
-          </li>
-          <li>
-            Attempting to or being able to access unreleased content or
-            information, developer/testing accounts, unobtainable items/content,
-            admin panel, testing-related content.
-          </li>
-          <li>
-            Post any information that contains nudity, excessive violence, or
-            offensive subject matter or that contains a link to such content.
-          </li>
-          <li>
-            Attempt to, or harass, abuse, or harm, or advocate or incite
-            harassment, abuse, or harm of another person, group, including
-            Beluga employees.
-          </li>
-          <li>
-            Make available through the Service any material or information that
-            infringes any copyright, trademark, patent, trade secret, right of
-            privacy, right of publicity, or other right of any person or entity
-            or impersonates any other person, including without limitation a
-            Beluga employee.
-          </li>
-          <li>
-            Solicit or attempt to solicit Login Information or any other login
-            credentials or personal information from other users of the Service
-            or any Beluga game. Collect or post anyone's private information,
-            including personally identifiable information (whether in text,
-            image or video form), identification documents, or financial
-            information through the Service. Use any Beluga game for gambling,
-            betting or any similar activity in which prizes or rewards can be
-            won (directly or indirectly), including betting on the outcome of
-            matches in which you participate as a player, irrespective of
-            whether or not there is a fee or stake involved.
-          </li>
-        </ul>
-        <p className='text-black text-3xl'>2.1 Limitation Use Violations</p>
+        <p className='text-black text-3xl'>2.1 Links to Third Party Sites/Third Party Services</p>
         <p>
-          Beluga reserves the right to determine what conduct is considered to
-          be in violation of the rules of use or otherwise outside the intent or
-          spirit of these Terms of Service or the Service itself. Beluga
-          reserves the right to take action as a result, which may include
-          terminating your Account and prohibiting you from using the Service in
-          whole or in part.
+          sellution.shop may contain links to other websites ("Linked Sites"). The Linked Sites are not under the control of Sellution and Sellution is not responsible for the contents of any Linked Site, including without limitation any link contained in a Linked Site, or any changes or updates to a Linked Site. Sellution is providing these links to you only as a convenience, and the inclusion of any link does not imply endorsement by Sellution of the site or any association with its operators. Certain services made available via sellution.shop are delivered by third party sites and organizations. By using any product, service or functionality originating from the sellution.shop domain, you hereby acknowledge and consent that Sellution may share such information and data with any third party with whom Sellution has a contractual relationship to provide the requested product, service or functionality on behalf of sellution.shop users and customers.
         </p>
-        <p className='text-black text-3xl'>3. Copyright Policy</p>
-        <p className='text-black text-3xl'>
-          3.1 Intellectual Property Infringement
+        <p className='text-black text-3xl'>3. No Unlawful or Prohibited Use/Intellectual Property</p>
         </p>
-        We respect the intellectual property rights of others. It is Our policy
-        to respond to any claim that
+        You are granted a non-exclusive, non-transferable, revocable license to access and use sellution.shop strictly in accordance with these terms of use. As a condition of your use of the Site, you warrant to Sellution that you will not use the Site for any purpose that is unlawful or prohibited by these Terms. You may not use the Site in any manner which could damage, disable, overburden, or impair the Site or interfere with any other party's use and enjoyment of the Site. You may not obtain or attempt to obtain any materials or information through any means not intentionally made available or provided for through the Site.
         <p>
-          Content posted on the Service infringes a copyright or other
-          intellectual property infringement of any person.
+          All content included as part of the Service, such as text, graphics, logos, images, as well as the compilation thereof, and any software used on the Site, is the property of Sellution or its suppliers and protected by copyright and other laws that protect intellectual property and proprietary rights. You agree to observe and abide by all copyright and other proprietary notices, legends or other restrictions contained in any such content and will not make any changes thereto.
         </p>
         <p>
-          If you are a copyright owner, or authorized on behalf of one, and you
-          believe that the copyrighted work has been copied in a way that
-          constitutes copyright infringement that is taking place through the
-          Service, you must submit your notice in writing to the attention of
-          our team via email (team@belugagames.io) and include in your notice a
-          detailed description of the alleged infringement.
+          You will not modify, publish, transmit, reverse engineer, participate in the transfer or sale, create derivative works, or in any way exploit any of the content, in whole or in part, found on the Site. Sellution content is not for resale. Your use of the Site does not entitle you to make any unauthorized use of any protected content, and in particular you will not delete or alter any proprietary rights or attribution notices in any content. You will use protected content solely for your personal use, and will make no other use of the content without the express written permission of Sellution and the copyright owner. You agree that you do not acquire any ownership rights in any protected content. We do not grant you any licenses, express or implied, to the intellectual property of Sellution or our licensors except as expressly authorized by these Terms.
         </p>
         <p>
           You may be held accountable for damages for misrepresenting that any
