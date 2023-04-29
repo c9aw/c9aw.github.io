@@ -9,16 +9,7 @@ const TOF = () => {
         </p>
         <p>Our Terms and Conditions were last updated on September 12, 2022.</p>
         <p>
-          The terms of this agreement ("Terms of Service") govern the
-          relationship between you and Beluga, a game development studio on
-          “Roblox”, (hereinafter "Beluga" or "Us" or "We") regarding your use of
-          Beluga's games, store, sites and related services (the "Service").
-          Before accessing or using the Service, including browsing any Beluga
-          website or accessing a game, you must agree to these Terms of Service
-          and the Privacy Policy. By using or registering for an Account or
-          otherwise using the Service, you affirm that you are the legal age of
-          majority in your country of residence. If you are not, your legal
-          guardian must review and agree to these Terms of Service.
+          Welcome to sellution.shop. The sellution.shop website (the "Site") is comprised of various web pages operated by Sellution LLC (" Sellution "). sellution.shop is offered to you conditioned on your acceptance without modification of the terms, conditions, and notices contained herein (the "Terms"). Your use of sellution.shop constitutes your agreement to all such Terms. Please read these terms carefully, and keep a copy of them for your reference.
         </p>
         <p>
           BY PLAYING, USING OR OTHERWISE ACCESSING THE SERVICE, YOU AGREE TO
