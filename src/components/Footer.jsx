@@ -3,7 +3,7 @@ import { FaDiscord, FaTwitter, FaYoutube, FaGithub } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <div className="h-[180px] bg-black text-white flex justify-between px-[3rem] p-[1rem] font-thin sm:px-4 sm:justify-center sm:text-sm">
+    <div className="h-[180px] bg-#f5f6f8ff text-#9d9d9d flex justify-between px-[3rem] p-[1rem] font-thin sm:px-4 sm:justify-center sm:text-sm">
       <div className="flex flex-col justify-between">
         <p className="flex gap-2">
           <Link to="/termsofservice" className="hover:text-gray-500">
