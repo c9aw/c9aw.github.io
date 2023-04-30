@@ -16,7 +16,7 @@ const Subscribe = () => {
         </div>
       ) : (
         <div className='mx-10 py-10 sm:mx-5 sm:py-5'>
-          <div className='flex flex-col justify-center gap-8 w-3/5 mx-auto bg-[#46daffbe] rounded-xl p-10 sm:p-2 sm:w-full sm:gap-4'>
+          <div className='flex flex-col justify-center gap-8 w-3/5 mx-auto bg-[#e8ecf0ff] rounded-xl p-10 sm:p-2 sm:w-full sm:gap-4'>
             <p className='text-4xl text-center font-bold sm:text-2xl'>
               Get exclusive offers & news
             </p>
