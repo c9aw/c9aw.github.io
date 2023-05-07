@@ -4,7 +4,7 @@ import Home from './pages/Home'
 import Browse from './pages/Browse'
 import Shop from './pages/Shop'
 import About from './pages/About'
-import Sell from './pages/Merch'
+import Merch from './pages/Merch'
 import Contact from './pages/Contact'
 import Nav from './components/Nav'
 import TOF from './pages/TOF'
@@ -19,7 +19,7 @@ function App() {
         <Route exact path='Browse' element={<Browse />} />
         <Route exact path='Shop' element={<Shop />} />
         <Route exact path='About' element={<About />} />
-        <Route exact path='Sell' element={<Merch />} />
+        <Route exact path='Merch' element={<Merch />} />
         <Route exact path='Contact' element={<Contact />} />
         <Route exact path='termsofservice' element={<TOF />} />
       </Routes>
