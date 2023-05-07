@@ -24,7 +24,7 @@ const Nav = () => {
         <Link className="hover:text-[#8affd2] transition" to="/about">
           About
         </Link>
-        <Link className="hover:text-[#8affd2] transition" to="sell/">
+        <Link className="hover:text-[#8affd2] transition" to="merch/">
           Sell
         </Link>
         <Link className="hover:text-[#8affd2] transition" to="/contact">
