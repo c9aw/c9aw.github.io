@@ -25,7 +25,7 @@ const Nav = () => {
           About
         </Link>
         <Link className="hover:text-[#8affd2] transition" to="merch/">
-          Sell
+          Merch
         </Link>
         <Link className="hover:text-[#8affd2] transition" to="/contact">
           Help
