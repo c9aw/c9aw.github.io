@@ -57,9 +57,9 @@ const Nav = () => {
           <Link
             onClick={() => setToggle(!toggle)}
             className="hover:text-[#8affd2] transition"
-            to="sell/"
+            to="merch/"
           >
-            Sell
+            Merch
           </Link>
           <Link
             onClick={() => setToggle(!toggle)}
